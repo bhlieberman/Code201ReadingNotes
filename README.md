@@ -1,30 +1,30 @@
-# Code 201 Reading Notes :open_book:
+# Code 201 Reading Notes 📖
 
 ## Table of Contents
-  * Javascript
-   - TBD 1
-   - TBD 2
-   - TBD 3
-   - TBD 4
-   - TBD 5
+  * JavaScript
+       - TBD 1
+       - TBD 2
+       - TBD 3
+       - TBD 4
+       - TBD 5
   * HTML
-   - TBD 1
-   - TBD 2
-   - TBD 3
-   - TBD 4
-   - TBD 5
+       - TBD 1
+       - TBD 2
+       - TBD 3
+       - TBD 4
+       - TBD 5
   * CSS
-   - TBD 1
-   - TBD 2
-   - TBD 3
-   - TBD 4
-   - TBD 5
+       - TBD 1
+       - TBD 2
+       - TBD 3
+       - TBD 4
+       - TBD 5
 
 ### Site Description
 
 Here lies the notes for Ben's Code 201 reading assignments. This will be a central repository for all learning material. Made with love in Emacs `markdown_mode`. 
 
-#### Javascript Notes
+#### JavaScript Notes
 
 JavaScript makes websites interactive through manipulation of their Document Object Model, or DOM.
 
