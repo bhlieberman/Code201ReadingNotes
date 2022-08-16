@@ -30,10 +30,10 @@ Separation of concerns: code and content are different. In an HTML document, exc
 
 ## About this CSS block:
 
-``` h2 {
+<code>h2 {
       color: black;
 	  padding: 5px;
- }```
+ }</code>
 
 1. The selector is `h2`.
 2. `color` and `padding` are the CSS properties in this code block.
