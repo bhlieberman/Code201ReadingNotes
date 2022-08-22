@@ -6,7 +6,7 @@
 - [Reading 03](./class-03.md)
 - [Reading 04](./class-04.md)
 - [Reading 05](./class-05.md)
-- Reading 06
+- [Reading 06](./class-06.md)
 - Reading 07
 - Reading 08
 - Reading 09
