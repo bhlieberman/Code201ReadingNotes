@@ -8,7 +8,7 @@
 - [Reading 05](./class-05.md)
 - [Reading 06](./class-06.md)
 - [Reading 07](./class-07.md)
-- Reading 08
+- [Reading 08](./class-08.md)
 - Reading 09
 - Reading 10
 - Reading 11
