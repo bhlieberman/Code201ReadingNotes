@@ -10,7 +10,7 @@
 - [Reading 07](./class-07.md)
 - [Reading 08](./class-08.md)
 - Reading 09
-- Reading 10
+- [Reading 10](./class-10.md)
 - Reading 11
 - Reading 12
 - Reading 13
