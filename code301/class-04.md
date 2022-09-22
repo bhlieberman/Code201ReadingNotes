@@ -7,6 +7,4 @@
 # The ternary operator
 
 1. The ternary operator is a more expressive way to write simple conditional statements in three parts: a condition that evalutes to `true` or `false` and an expression that runs in either case. It is like a traditional `if/else` branch but can be more concise under certain circumstances.
-2. ```
-x === y ? console.log(true) : console.log(false)
-```
+2. ```x === y ? console.log(true) : console.log(false)```
