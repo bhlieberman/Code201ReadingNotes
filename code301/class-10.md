@@ -3,7 +3,7 @@
 1. A call is a function invocation, meaning the function is supplied with its inputs.
 2. One, because of the structure of the call stack.
 3. LIFO is an acronym standing for 'Last In, First Out'.
-4. ``````
+ ``````
 -------------
 |___________|
 |console.log
@@ -17,6 +17,7 @@ function countNumbers(i) {
    }
 }
 ``````
+
 5. Stack overflow can occur when a function recurses infinitely. Most languages have a built-in recursion limit that when exceeded triggers a stack overflow error. This means that too many stack frames have been put on the stack and they are not being removed.
 
 # JavaScript errors
