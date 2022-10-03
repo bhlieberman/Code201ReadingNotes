@@ -30,8 +30,8 @@
 
   </tr>
   <tr>
-   <td>Usually hosted on one machine</td>
- <td>Hosted in a cluster</td>
+   <td>Hosted in a cluster</td>
+ <td>Hosted on one machine</td>
 
   </tr>
 </table>
