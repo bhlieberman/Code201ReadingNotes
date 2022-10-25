@@ -1,0 +1,5 @@
+# Reading 2
+
+1. `for` and `while` loops both track an index.
+2. The `java.util.Array` [java.util.Arrays](https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html) class has a `hashCode` method, which is derived from `java.lang.Object` and is the basis for comparing objects in Java. It also has various implementations of methods such as `binarySearch` and `sort`.
+3. Packages are like a toolbox: different tools are placed in separate parts of the box that is partitioned in such a way to organize the contents. The toolbox might be labelled, or it may simply follow a conventional design pattern, say, for example, have a storage container built on top of the lid for keeping screws, nails, etc. isolated from larger tools. Packages in Java have names, but whether they are fully-qualified names or not roughly corresponds to the convention of where to keep items in a toolbox. 
