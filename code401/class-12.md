@@ -1,0 +1,3 @@
+# JPA and persistence in Spring
+
+The Spring framework provides access to and control over data persistence technologies like SQL through JPA. JPA is an ORM: it coordinates the relationship between (in this case Java) objects and the corresponding entity in a database schema. JPA exposes several interfaces for doing basic CRUD operations, which allow loose coupling between Spring applications and their respective databases. This interface can be extended by a Spring app to create whatever retrieval logic needed for the data.
